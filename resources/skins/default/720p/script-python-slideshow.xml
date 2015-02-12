@@ -114,7 +114,7 @@
 			</control>
 			<control type="group">
 				<posx>20</posx>
-				<posy>20</posy>
+				<posy>562</posy>
 				<animation effect="fade" start="80" end="80" time="0" condition="true">Conditional</animation>
 				<visible>Player.HasAudio + StringCompare(Window.Property(SlideView.Music),show)</visible>
 				<control type="image">
